@@ -290,7 +290,7 @@ span.sub-title:after, span.sub-title:before {
   content: "";
   width: 50px;
   height: 3px;
-  background-color: #03051c;
+  background-color: #1e2c48;
   vertical-align: middle;
 }
 span.sub-title:before {
