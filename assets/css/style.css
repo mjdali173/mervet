@@ -287,7 +287,6 @@ span.sub-title {
 }
 span.sub-title:after, span.sub-title:before {
   display: inline-block;
-  content: "";
   width: 50px;
   height: 3px;
   background-color: #1e2c48;
@@ -298,7 +297,7 @@ span.sub-title:before {
 }
 @media (max-width: 767px) {
   span.sub-title:before {
-    margin-right: 10px;
+    margin-right: 20px;
   }
 }
 span.sub-title:after {
